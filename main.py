@@ -4,8 +4,8 @@ Created at 28-06-2020
 '''
 
 def mod(x : int, y : int) -> int:
-    ''' 
-    @params 
+    '''
+    @params
     x : int
     y : int
 
@@ -14,5 +14,13 @@ def mod(x : int, y : int) -> int:
     '''
     return x % y
 
+def add(self, a, b):
+    return a+b
+
+
+def multiply(x,y):
+    return x*y
+
+
 if __name__ == '__main__':
-    print("V.1")
+    print("V.2")
