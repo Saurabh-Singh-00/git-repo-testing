@@ -14,7 +14,7 @@ def mod(x : int, y : int) -> int:
     '''
     return x % y
 
-def add(self, a, b):
+def add(a, b):
     return a+b
 
 
