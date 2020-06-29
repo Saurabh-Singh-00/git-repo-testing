@@ -17,6 +17,9 @@ def mod(x : int, y : int) -> int:
 def add(a, b):
     return a+b
 
+def prdiv(a,b):
+    return a//b
+
 
 def multiply(x,y):
     return x*y
